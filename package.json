@@ -18,5 +18,9 @@
     "to"
   ],
   "author": "Sandeep Gujela",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/sandeepgujela/React-Typescript-Timer.git"
+  }
 }
