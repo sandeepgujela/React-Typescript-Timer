@@ -1,6 +1,6 @@
 {
   "name": "react-typescript-timer",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "simple countdown timer for react typescript",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "author": "Sandeep Gujela",
   "license": "ISC",
   "repository": {
-  "type": "git",
-  "url": "https://github.com/sandeepgujela/React-Typescript-Timer.git"
+    "type": "git",
+    "url": "https://github.com/sandeepgujela/React-Typescript-Timer.git"
   }
 }
