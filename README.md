@@ -3,5 +3,5 @@ This is simple CountDown Timer built with for react + Typescript.
 you can use Javascript Date or Server Time
 
 # USAGE
-<CountdownTimerComponent startDate={item.serverTime} endDate={item.createDate} />
+'<CountdownTimerComponent startDate={item.serverTime} endDate={item.createDate} />'
 
