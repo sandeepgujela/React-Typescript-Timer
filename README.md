@@ -1,5 +1,5 @@
 # React-Typescript-Timer with Server Time
-This is simple CountDown Timer built with for react + Typescript.
+This is simple CountDown Timer built with react + Typescript.
 you can use Javascript Date or Server Time
 
 # USAGE
