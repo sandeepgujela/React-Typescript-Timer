@@ -1,5 +1,5 @@
 {
-  "name": "React-Typescript-Timer",
+  "name": "react-typescript-timer",
   "version": "1.1.0",
   "description": "simple countdown timer for react typescript",
   "main": "index.js",
