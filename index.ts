@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-// import { duration } from 'moment';
 import moment from 'moment'
 interface Props {
 startDate: any,
